@@ -1,11 +1,9 @@
 ---
 layout: post
-title:  "summer diary"
+title:  "Summer Vacation Diary"
 date:   2022-07-08 21:44:13 +0800
 categories: study
 ---
-
-# Summer Diary
 
 ## Fri Jul 8
 
