@@ -5,11 +5,27 @@ date:   2022-07-08 21:44:13 +0800
 categories: study
 ---
 
-## Fri Jul 15
+## Mon Jul 18
 
-### FileManager
+### Swift
+
+* [Parse HTML in Swift 5 (HTMLKit) - Xcode 11, 2020, iOS Development](https://www.youtube.com/watch?v=biG7RnRR9Pg)
+
+## Fri Jul 16
+
+### Swift
 
 * [FileManager Swift 5 Tutorials](https://www.youtube.com/watch?v=pUAcMruIBGg)
+
+* [Strom Viewer - Project 1](https://www.hackingwithswift.com/100/18)
+
+* [iOS 14 Beta 6 File Importer & File Exporter - SwiftUI 2.0 Document Picker
+](https://www.youtube.com/watch?v=tnOVnwbkAA0)
+
+### LeetCode
+
+* [LeetCode in Python 13. Roman to Integer](https://www.bilibili.com/video/BV1Jb411i7ue?share_source=copy_web&vd_source=bf4952280cde801b178268abc99a7047)
+* [LeetCode in Swift 13. Roman to Integer](https://github.com/ecmadao/algorithms/blob/master/leetcode/Swift/No13.roman-to-integer.swift)
 
 ## Thu Jul 14 
 
@@ -22,6 +38,4 @@ categories: study
 
 ### Vapor
 
-* [Getting Started with Vapor 4](https://youtu.be/CD283bLteP0)
-
-* CodeWithChris
+* [Getting Started with Vapor 4](https://youtu.be/CD283bLteP0) - CodeWithChris
