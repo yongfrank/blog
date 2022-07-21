@@ -5,6 +5,13 @@ date:   2022-07-08 21:44:13 +0800
 categories: study
 ---
 
+## Thu Jul 21
+
+### Swift
+
+* [How to use VideoPlayer in SwiftUI
+](https://www.swiftanytime.com/videoplayer-in-swiftui/)
+
 ## Mon Jul 18
 
 ### Swift
