@@ -1,15 +1,20 @@
+---
+layout: post
+title:  "Swift throws and rethrows, function as parameter"
+date:   2022-09-21 11:31:00 +0800
+categories: study
+---
+
 <!--
  * @Author: Frank Chu
  * @Date: 2022-09-19 16:47:12
  * @LastEditors: Frank Chu
- * @LastEditTime: 2022-09-21 11:28:36
- * @FilePath: /blog/_posts/2022-09-19-swift-throws-rethrows.md
+ * @LastEditTime: 2022-09-21 11:32:00
+ * @FilePath: /blog/_posts/2022-09-21-swift-throws-rethrows.md
  * @Description: 
  * 
  * Copyright (c) 2022 by Frank Chu, All Rights Reserved. 
 -->
-
-# Swift throws and rethrows, function as parameter
 
 ## Keyword throws
 
