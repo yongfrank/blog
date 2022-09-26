@@ -15,17 +15,17 @@ categories: study
 
 <!-- Open Graph / Facebook -->
 <meta property="og:type" content="website">
-<meta property="og:url" content="https://metatags.io/">
+<meta property="og:url" content="https://yongfrank.github.io/blog/study/2022/09/23/swift-network">
 <meta property="og:title" content="Swift Network URLSession">
 <meta property="og:description" content="The URLSession class and related classes provide an API for downloading data from and uploading data to endpoints indicated by URLs.">
-<meta property="og:image" content="https://metatags.io/assets/meta-tags-16a33a6a8531e519cc0936fbba0ad904e52d35f34a46c97a2c9f6f7dd7d336f2.png">
+<meta property="og:image" content="https://raw.githubusercontent.com/yongfrank/blog/main/metadata_img/2022-09-23-swift-network.png">
 
 <!-- Twitter -->
 <meta property="twitter:card" content="summary_large_image">
-<meta property="twitter:url" content="https://metatags.io/">
+<meta property="twitter:url" content="https://yongfrank.github.io/blog/study/2022/09/23/swift-network">
 <meta property="twitter:title" content="Swift Network URLSession">
 <meta property="twitter:description" content="The URLSession class and related classes provide an API for downloading data from and uploading data to endpoints indicated by URLs.">
-<meta property="twitter:image" content="https://metatags.io/assets/meta-tags-16a33a6a8531e519cc0936fbba0ad904e52d35f34a46c97a2c9f6f7dd7d336f2.png">
+<meta property="twitter:image" content="https://raw.githubusercontent.com/yongfrank/blog/main/metadata_img/2022-09-23-swift-network.png">
 </head>
 </html>
 
