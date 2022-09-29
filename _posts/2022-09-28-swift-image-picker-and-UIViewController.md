@@ -11,7 +11,7 @@ categories: study
 <!-- Primary Meta Tags -->
 <title>Swift: Image Picker UIKit in the SwiftUI</title>
 <meta name="title" content="Swift: Image Picker UIKit in the SwiftUI">
-<meta name="description" content="The URLSession class and related classes provide an API for downloading data from and uploading data to endpoints indicated by URLs.">
+<meta name="description" content="Swift: Image Picker UIKit in the SwiftUI">
 
 <!-- Open Graph / Facebook -->
 <meta property="og:type" content="website">
