@@ -25,7 +25,7 @@ categories: study
 <meta property="twitter:url" content="https://yongfrank.github.io/blog/study/2022/09/28/swift-image-picker-and-UIViewController">
 <meta property="twitter:title" content="Swift: Image Picker UIKit in the SwiftUI">
 <meta property="twitter:description" content="The URLSession class and related classes provide an API for downloading data from and uploading data to endpoints indicated by URLs.">
-<meta property="twitter:image" content="https://raw.githubusercontent.com/yongfrank/blog/main/metadata_img/2022-09-28-swift-network.png">
+<meta property="twitter:image" content="https://raw.githubusercontent.com/yongfrank/blog/main/metadata_img/2022-09-28-swift-image-picker.png">
 </head>
 </html>
 
