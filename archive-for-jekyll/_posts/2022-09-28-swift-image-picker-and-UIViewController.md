@@ -44,7 +44,7 @@ categories: study
 
 [Using coordinators to manage SwiftUI view controllers](https://www.hackingwithswift.com/books/ios-swiftui/using-coordinators-to-manage-swiftui-view-controllers)
 
-```Swift
+```swift
 import SwiftUI
 import PhotosUI
 
@@ -265,3 +265,5 @@ struct ImagePicker: UIViewControllerRepresentable {
 [How do you pass SwiftUI Bindings to other objects in iOS 13 Beta 4?](https://developer.apple.com/forums/thread/120034)
 
 [SwiftUI: How to implement a custom init with @Binding variables](https://developer.apple.com/forums/thread/120034)
+
+[Use UIKit View in the SwiftUI](https://www.fatbobman.com/posts/uikitInSwiftUI/)
