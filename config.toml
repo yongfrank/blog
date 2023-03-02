@@ -1,4 +1,4 @@
-baseURL = 'https://yongfrank.github.io'
+baseURL = 'https://yongfrank.github.io/blog/'
 languageCode = 'en-us'
 title = 'Blog by Frank'
 theme = 'contrast-hugo'
